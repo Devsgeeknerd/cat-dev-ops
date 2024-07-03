@@ -22,6 +22,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Integração Contínua (CI):** Práticas e ferramentas para integração contínua.
   * Conceitos de integração contínua;
   * Ferramentas de CI;
+  * Configuração de pipelines de CI;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
