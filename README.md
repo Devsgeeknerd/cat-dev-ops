@@ -7,6 +7,8 @@ A categoria DevOps é essencial para a implementação de práticas ágeis e efi
 
 Ao completar esta categoria, terá habilidades robustas em:
 
+* **Introdução ao DevOps:** Fundamentos e benefícios da cultura DevOps.
+
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
 <!-- Informações -->
