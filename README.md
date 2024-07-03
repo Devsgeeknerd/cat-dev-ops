@@ -16,6 +16,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Controle de Versão com Git:** Utilização de sistemas de controle de versão para gerenciar o código-fonte.
   * Conceitos de controle de versão;
   * Comandos básicos do Git;
+  * Gerenciamento de branches e merge;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
