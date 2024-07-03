@@ -14,6 +14,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Cultura e mindset DevOps.
 
 * **Controle de Versão com Git:** Utilização de sistemas de controle de versão para gerenciar o código-fonte.
+  * Conceitos de controle de versão;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
