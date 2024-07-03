@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Definição de DevOps;
   * Princípios e práticas fundamentais;
   * Benefícios do DevOps para empresas e equipes de desenvolvimento;
+  * Cultura e mindset DevOps.
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
