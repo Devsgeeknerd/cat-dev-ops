@@ -13,6 +13,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Benefícios do DevOps para empresas e equipes de desenvolvimento;
   * Cultura e mindset DevOps.
 
+* **Controle de Versão com Git:** Utilização de sistemas de controle de versão para gerenciar o código-fonte.
+
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
 <!-- Informações -->
