@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria DevOps é essencial para a implementação de práticas ágeis e eficientes no desenvolvimento e operação de software.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
+
 <!-- Informações -->
 ## &#8505; Informações
 
