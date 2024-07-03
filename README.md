@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Gerenciamento de branches e merge;
   * Repositórios remotos e colaboração.
 
+* **Integração Contínua (CI):** Práticas e ferramentas para integração contínua.
+
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
 <!-- Informações -->
