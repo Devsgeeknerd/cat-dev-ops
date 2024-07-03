@@ -26,6 +26,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Testes automatizados e cobertura de código.
 
 * **Entrega Contínua (CD):** Práticas e ferramentas para entrega contínua.
+  * Conceitos de entrega contínua;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
