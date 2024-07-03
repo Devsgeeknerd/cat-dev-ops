@@ -23,6 +23,9 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Conceitos de integração contínua;
   * Ferramentas de CI;
   * Configuração de pipelines de CI;
+  * Testes automatizados e cobertura de código.
+
+
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
