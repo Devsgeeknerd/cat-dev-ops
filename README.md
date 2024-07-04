@@ -39,6 +39,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Contêineres e Orquestração:** Utilização de contêineres para empacotar e gerenciar aplicativos.
   * Introdução a contêineres;
+  * Criação e gerenciamento de contêineres Docker;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
