@@ -31,6 +31,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Configuração de pipelines de CD;
   * Estratégias de deploy.
 
+* **Infraestrutura como Código (IaC):** Gerenciamento de infraestrutura usando código.
+
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
 <!-- Informações -->
