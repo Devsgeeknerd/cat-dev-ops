@@ -33,6 +33,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Infraestrutura como Código (IaC):** Gerenciamento de infraestrutura usando código.
   * Conceito de infraestrutura como Código;
+  * Ferramentas de IaC;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
