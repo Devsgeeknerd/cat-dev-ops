@@ -47,6 +47,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas de monitoramento;
   * Configurações e utilização de dashboards de monitoramento;
   * Coleta e análise de logs;
+  * Alertas e notificações.
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
