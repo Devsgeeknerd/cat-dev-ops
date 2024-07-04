@@ -62,6 +62,8 @@ Essas competências são fundamentais para criar um ambiente de desenvolvimento 
 >
 > * Prática Contínua:
 >   * Crie pipelines de CI/CD e automatize processos em seus projetos pessoais.
+>
+> * Certificações:
 
 <!-- Informações -->
 ## &#8505; Informações
