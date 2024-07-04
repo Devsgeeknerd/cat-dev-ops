@@ -59,6 +59,8 @@ Essas competências são fundamentais para criar um ambiente de desenvolvimento 
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Prática Contínua:
 
 <!-- Informações -->
 ## &#8505; Informações
