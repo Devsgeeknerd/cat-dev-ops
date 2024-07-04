@@ -50,6 +50,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Alertas e notificações.
 
 * **Segurança DevOps (DevSecOps):** Integração de práticas de segurança no ciclo de vida de desenvolvimento.
+  * Conceitos de DevSecOps;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
