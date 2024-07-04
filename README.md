@@ -38,6 +38,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Gerenciamento de configuração e estado.
 
 * **Contêineres e Orquestração:** Utilização de contêineres para empacotar e gerenciar aplicativos.
+  * Introdução a contêineres;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
