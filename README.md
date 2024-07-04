@@ -68,6 +68,9 @@ Essas competências são fundamentais para criar um ambiente de desenvolvimento 
 >
 > * Participação em Comunidades:
 >   * Envolva-se em fóruns e grupos online para trocar experiências e resolver dúvidas.
+>
+> * Atualização Constante:
+>   * Fique atento as novidades e práticas emergentes no campo do DevOps.
 
 <!-- Informações -->
 ## &#8505; Informações
