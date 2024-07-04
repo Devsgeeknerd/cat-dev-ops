@@ -35,6 +35,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Conceito de infraestrutura como Código;
   * Ferramentas de IaC;
   * Automação de provisionamento de infraestrutura;
+  * Gerenciamento de configuração e estado.
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
