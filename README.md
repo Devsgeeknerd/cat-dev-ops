@@ -64,6 +64,7 @@ Essas competências são fundamentais para criar um ambiente de desenvolvimento 
 >   * Crie pipelines de CI/CD e automatize processos em seus projetos pessoais.
 >
 > * Certificações:
+>   * Busque certificações em ferramentas e práticas DevOps para validar seus conhecimentos.
 
 <!-- Informações -->
 ## &#8505; Informações
