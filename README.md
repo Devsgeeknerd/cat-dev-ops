@@ -44,6 +44,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Deploy de aplicações em clusters Kubernetes.
 
 * **Monitoramento e Logging:** Monitoramento contínuo e análise de logs para garantir a estabilidade e desempenho.
+  * Ferramentas de monitoramento;
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
