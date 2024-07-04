@@ -61,6 +61,7 @@ Essas competências são fundamentais para criar um ambiente de desenvolvimento 
 > **Dicas de Estudo:**
 >
 > * Prática Contínua:
+>   * Crie pipelines de CI/CD e automatize processos em seus projetos pessoais.
 
 <!-- Informações -->
 ## &#8505; Informações
