@@ -41,6 +41,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Introdução a contêineres;
   * Criação e gerenciamento de contêineres Docker;
   * Orquestração de contêineres;
+  * Deploy de aplicações em clusters Kubernetes.
 
 Essas competências são fundamentais para criar um ambiente de desenvolvimento colaborativo e ágil, que promove a entrega contínua de valor aos usuários finais.
 
