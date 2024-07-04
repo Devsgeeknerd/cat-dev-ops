@@ -65,6 +65,9 @@ Essas competências são fundamentais para criar um ambiente de desenvolvimento 
 >
 > * Certificações:
 >   * Busque certificações em ferramentas e práticas DevOps para validar seus conhecimentos.
+>
+> * Participação em Comunidades:
+>   * Envolva-se em fóruns e grupos online para trocar experiências e resolver dúvidas.
 
 <!-- Informações -->
 ## &#8505; Informações
